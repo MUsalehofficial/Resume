@@ -9,22 +9,22 @@ sidebar:
 
     # Profile information
     name: Muhammad Saleh
-    tagline: Full Stack Developer
+    tagline: Infrastructure Systems Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
+    email: musalehofficial@outlook.com
+    phone: +966 502 399 067
+    timezone: Asia/Riyadh # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Egyptian
+    website: https://musalehofficial.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: musalehofficial
+    xing:
+    github: musalehofficial
+    telegram: musalehofficial # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@musalehofficial'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,14 +36,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Arabic
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        #- idiom: Spanish
+        #  level: Professional
 
     interests:
       title: Interests
