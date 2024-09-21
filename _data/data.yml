@@ -47,94 +47,120 @@ sidebar:
         #- idiom: Spanish
         #  level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    # interests:
+    #  title: 
+    #  info:
+       # - item: Climbing
+       #   link:
 
-        - item: Snowboarding
-          link:
+       # - item: Snowboarding
+       #   link:
 
-        - item: Cooking
-          link:
+       # - item: Cooking
+       #   link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Infrastructure Systems Engineer/System Administrator experienced in system maintenance and server data-center operations management. 
+      Proven track record of success in developing, deploying, and evaluating systems to improve uptime and efficiency.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Bachelor of Computer Science
+        university: El-Shorouk Academy
+        time: 2015 - 2019
+        details:
+        
+      #- degree: BSc in Applied Mathematics
+      #  university: Bristol University
+      #  time: 2007 - 2011
+      #  details: |
+      #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #    pretium quis, sem.
+      #      - Bullet point
+      #      - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Infrastructure Systems Engineer
+        time: Sep 2023 - Present
+        company: Public Transportation Company - Riyadh, Saudi-Arabia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Played a key role in the architecture, design, and deployment of Microsoft and Active Directory systems.
+            - Developed and implemented procedures for installing, testing, and maintaining Active Directory environments.
+            - Facilitated the management of Office 365 tenants, supporting a seamless hybrid/cloud environment.
+            - Utilized third-party products for effective Active Directory management.
+            - Diagnosed and resolved various system and application issues, ensuring optimal performance.
+            - Managed infrastructure hypervisor Nutanix HCI AHV.
+            - Managed infrastructure backup solution Commvault.
+            - Deployed Patch Management solutions to maintain endpoint compliance.
+            - Assisted in providing technical solutions for vulnerability reports.
+            - Provided support and guidance to Service Desk as a technical team leader and L2/L3 Support.
+      - role: Infrastructure Systems Engineer
+        time: Dec 2021 0- Aug 2023
+        company: Emircom - Riyadh, Saudi-Arabia (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Assisted in architecture, designing and deployment of all elements related to Microsoft and AD products.
+            - Implemented procedures for installation, testing and maintenance of Active Directory.
+            - Worked on Office 365 to manage enterprises cloud environments.
+            - Resolved issues relating to systems and applications by providing the proper solutions.
+            - Implemented and managed third-party products to manage Active Directory.
+            - Worked on vCenter Server to manage ESXi hosts with a large scope.
+            - Support current systems by tuning performance, allocating storage space, and implementing critical system and application patches.
+            - Troubleshoot software errors by running diagnostics, documenting problems and resolutions, prioritizing problems, and assessing impact of issues.
+            - Installed and configured backup repositories and proxies according to specific settings and configured backup jobs to project’s standards.
+            - Monitored daily backup jobs to fix and clean up an ignored system.
+      - role: Infrastructure Systems Engineer
+        time: Sep 2021 - Nov 2021
+        company: Insights Solutions - Cairo, Egypt
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Investigating customers’ current IT system, documenting user needs and recommending improvements.
+            - Deploy and Implement MS Infrastructure Services and Products.
+            - Testing and repairing system faults.
+            - Providing technical guidance and troubleshooting systems.
+            - Monitoring systems to ensure efficient operation.
+            - Provide technical support for ongoing system maintenance.
+      - role: IT Trainee
+        time: 6 Months
+        company: Cairo Airport Cargo Company (CACC) - Cairo, Egypt
+        details: |
+            - Attended training courses in MCSA and CCNA to build understanding of managing and troubleshooting system and network industry.
+            - Gained understanding of comprehensive knowledge in Windows Server 2008 and 2012 procedures by closely monitoring, troubleshooting, and establishing business continuity for AD-DS services.
+            - Obtained ICT Help Desk Administrator role to prepare for position.
 
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+            
 certifications:
       title: Certifications
       list:
@@ -175,33 +201,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
