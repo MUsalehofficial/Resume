@@ -139,6 +139,7 @@ projects:
     assignments:
       - title: SAT – SAPTCO Alsa for Transportation
         link: "https://satrans.com.sa/"
+        associated: (Associated with Public Transportation Company)
         time: Oct 2023 – Present
         tagline: |
             - Managed ActiveDirectory domain environment.
@@ -149,6 +150,7 @@ projects:
 
       - title: PTCO – Public Transportation Company
         link: "https://www.ptco.com.sa"
+        associated: (Associated with Emircom)
         time: Jun 2022 – Aug 2023
         tagline: |
             - Managed ActiveDirectory domain environment.
@@ -159,6 +161,7 @@ projects:
 
       - title: Fursan Travel
         link: "https://fursan.com.sa/"
+        associated: (Associated with Emircom)
         time: Jan 2022 – Jul 2022
         tagline: |
             - Managing ActiveDirectory domain environment.
@@ -169,6 +172,7 @@ projects:
 
       - title: HRDF – Human Resources Department Fund
         link: "https://www.hrdf.org.sa/"
+        associated: (Associated with Emircom)
         time: Dec 2021 – Aug 2022
         tagline: |
             - Managed multi-ActiveDirectory domain environments.
@@ -184,6 +188,17 @@ projects:
             - Wrote code on C# using Microsoft Visual Studio. 
             - Modified existing software to correct coding errors, upgrade interfaces and improve overall performance.
             - Monitored and updated back-end data by inter-communicating between C# and MySQL.
+            
+      - title: CVlizer - Automated CV Analysis & Screening
+        link: "https://github.com/MUsalehofficial/CVlizer"
+        associated: (Associated with El-Shorouk Academy)
+        tagline: |
+            - Collaborated with a team of 7 as a team leader in the development of CVlizer project.
+            - Wrote code on Python using PyCharm.
+            - Gained understanding in Natural Language Processing (NLP) and Machine Learning.
+            - Build back-end and front-end using MongoDB and Python Flask.
+
+
 
 certifications:
       title: Certifications
