@@ -102,7 +102,7 @@ experiences:
             - Assisted in providing technical solutions for vulnerability reports.
             - Provided support and guidance to Service Desk as a technical team leader and L2/L3 Support.
       - role: Infrastructure Systems Engineer
-        time: Dec 2021 0- Aug 2023
+        time: Dec 2021 - Aug 2023
         company: Emircom - Riyadh, Saudi-Arabia (Remote)
         details: |
             - Assisted in architecture, designing and deployment of all elements related to Microsoft and AD products.
@@ -135,14 +135,16 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SAT – SAPTCO Alsa for Transportation (Oct 2023 – Present)
+        link: "https://satrans.com.sa/"
+        tagline: |
+            - •	Managed ActiveDirectory domain environment.
+            - •	Managed Microsoft Office 365 cloud tenant.
+            - •	Active Directory replication troubleshooting.
+            - •	Implemented Patch Management solution (SCCM).
+            - •	Implemented AD Management solution (ADManager).
 
       - title: DevStudio
         link: "#"
