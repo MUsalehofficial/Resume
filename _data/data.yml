@@ -137,8 +137,9 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: SAT – SAPTCO Alsa for Transportation (Oct 2023 – Present)
+      - title: SAT – SAPTCO Alsa for Transportation
         link: "https://satrans.com.sa/"
+        time: Oct 2023 – Present
         tagline: |
             - •	Managed ActiveDirectory domain environment.
             - •	Managed Microsoft Office 365 cloud tenant.
