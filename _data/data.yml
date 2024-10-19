@@ -141,29 +141,51 @@ projects:
         link: "https://satrans.com.sa/"
         time: Oct 2023 – Present
         tagline: |
-            - •	Managed ActiveDirectory domain environment.
-            - •	Managed Microsoft Office 365 cloud tenant.
-            - •	Active Directory replication troubleshooting.
-            - •	Implemented Patch Management solution (SCCM).
-            - •	Implemented AD Management solution (ADManager).
+            - Managed ActiveDirectory domain environment.
+            - Managed Microsoft Office 365 cloud tenant.
+            - Active Directory replication troubleshooting.
+            - Implemented Patch Management solution (SCCM).
+            - Implemented AD Management solution (ADManager).
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PTCO – Public Transportation Company
+        link: "https://www.ptco.com.sa"
+        time: Jun 2022 – Aug 2023
+        tagline: |
+            - Managed ActiveDirectory domain environment.
+            - Managed Microsoft Office 365 cloud tenant.
+            - Active Directory replication troubleshooting.
+            - Implemented Patch Management solution (SCCM).
+            - Implemented AD Management solution (ADManager).
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Fursan Travel
+        link: "https://fursan.com.sa/"
+        time: Jan 2022 – Jul 2022
+        tagline: |
+            - Managing ActiveDirectory domain environment.
+            - ActiveDirectory replication troubleshooting.
+            - Managing Virtualization Environment (Hyper-V).
+            - Managing and Monitoring Backup policies (Veeam).
+            - IIS Management.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: HRDF – Human Resources Department Fund
+        link: "https://www.hrdf.org.sa/"
+        time: Dec 2021 – Aug 2022
+        tagline: |
+            - Managed multi-ActiveDirectory domain environments.
+            - ActiveDirectory replication troubleshooting.
+            - Managed Virtualization Environment (VMWare vCenter).
+            - Managed and Monitoring Backup policies (Veeam).
+            - Created patch deployments for servers and workstations (SCCM).
+            - Engaged in SQL Server migration and failover cluster activities.
+            - Engaged in LDAP integration and service accounts.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Phoenix Online – Multiplayer Online Role-Playing Game
+        link: ""
+        tagline: |
+            - Wrote code on C# using Microsoft Visual Studio. 
+            - Modified existing software to correct coding errors, upgrade interfaces and improve overall performance.
+            - Monitored and updated back-end data by inter-communicating between C# and MySQL.
 
-            
 certifications:
       title: Certifications
       list:
